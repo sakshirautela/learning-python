@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../user-java"
+		},
+		{
+			"path": "../learning-artificialintelligence"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": []
+	}
+}
