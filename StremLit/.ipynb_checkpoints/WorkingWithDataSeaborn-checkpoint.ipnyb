@@ -1,0 +1,6 @@
+import numpy as np
+import seaborn as sns
+
+data=sns.load_dataset(map)
+data.head()
+
